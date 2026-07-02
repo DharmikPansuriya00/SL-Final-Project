@@ -209,8 +209,7 @@ Add these images inside `images/`:
 
 ``` text
 images/
-├── dataset.png
-├── churn_distribution.png
+
 ├── heatmap.png
 ├── roc_curve.png
 ├── confusion_matrix.png
