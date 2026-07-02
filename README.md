@@ -221,14 +221,11 @@ images/
 
 Example:
 
-``` md
-![Heatmap](https://github.com/DharmikPansuriya00/SL-Final-Project/tree/main/imagesheatmap.png)
+![Heatmap](https://raw.githubusercontent.com/DharmikPansuriya00/SL-Final-Project/main/images/heatmap.png)
 
-![ROC Curve][(images/](https://github.com/DharmikPansuriya00/SL-Final-Project/tree/main/imagesroc_curve.png)
+![ROC Curve](https://raw.githubusercontent.com/DharmikPansuriya00/SL-Final-Project/main/images/roc_curve.png)
 
-![Feature Importance][(images/](https://github.com/DharmikPansuriya00/SL-Final-Project/tree/main/imagesfeature_importance.png)
-```
-
+![Feature Importance](https://raw.githubusercontent.com/DharmikPansuriya00/SL-Final-Project/main/images/feature_importance.png)
 ------------------------------------------------------------------------
 
 # ▶ Installation
