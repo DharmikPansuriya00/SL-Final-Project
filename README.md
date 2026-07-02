@@ -222,11 +222,11 @@ images/
 Example:
 
 ``` md
-![Heatmap](images/heatmap.png)
+![Heatmap](https://github.com/DharmikPansuriya00/SL-Final-Project/tree/main/imagesheatmap.png)
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve][(images/](https://github.com/DharmikPansuriya00/SL-Final-Project/tree/main/imagesroc_curve.png)
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance][(images/](https://github.com/DharmikPansuriya00/SL-Final-Project/tree/main/imagesfeature_importance.png)
 ```
 
 ------------------------------------------------------------------------
